@@ -15,10 +15,10 @@ I'm currently a student at UC San Diego, working on a Bachelors in Computer Scie
 <img style="margin: 10px" src="./images/javascript.png" alt="Javascript" height="50" />  
 <img style="margin: 10px" src="./images/typescript.png" alt="Typescript" height="50" />  
 <img style="margin: 5px; padding: 5px; background: rgb(226, 232, 240)" src="./images/nodejs.png" alt="NodeJS" height="50" />  
-<img style="margin: 10px" src="./images/Java.png" alt="Java" height="50" />  
-<img style="margin: 10px" src="./images/HTML5.png" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="./images/CSS3.png" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="./images/Go.png" alt="Golang" height="50" />  
+<img style="margin: 10px" src="./images/java.png" alt="Java" height="50" />  
+<img style="margin: 10px" src="./images/html5.png" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="./images/css3.png" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="./images/go.png" alt="Golang" height="50" />  
 <img style="margin: 10px" src="./images/csharp.png" alt="Csharp" height="50" />  
 <img style="margin: 10px; background: rgb(226, 232, 240)" src="./images/sql.png" alt="Sql" height="50" />  
 <img style="margin: 10px; background: rgb(226, 232, 240)" src="./images/bash.png" alt="Bash" height="50" />  
