@@ -2,6 +2,8 @@
 
 I'm currently a student at UC San Diego, working on a Bachelors in Computer Science.
 
+Check out my portfolio at [https://aniketg.me](https://aniketg.me)!
+
 ### Skills
 
 <table>
