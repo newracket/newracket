@@ -4,7 +4,7 @@ I'm currently a student at UC San Diego, working on a Bachelors in Computer Scie
 
 Check out my portfolio at [https://aniketg.me](https://aniketg.me)!
 
-![Aniket's github stats](https://github-readme-stats-newracket.vercel.app/api?username=newracket&count_private=true&show_icons=true&theme=dracula)&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats-newracket.vercel.app/api/top-langs/?username=newracket&langs_count=8&layout=compact&theme=dracula&hide=jupyter%20notebook,purebasic&exclude_repo=discord.js,discord-akairo,github-readme-stats)
+![Aniket's github stats](https://github-readme-stats-newracket.vercel.app/api?username=newracket&count_private=true&show_icons=true&theme=dracula)&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats-newracket.vercel.app/api/top-langs/?username=newracket&langs_count=8&layout=compact&theme=dracula&hide=jupyter%20notebook,purebasic&include_forks=true&exclude_repo=discord.js,discord-akairo,github-readme-stats)
 
 ## Skills
 
