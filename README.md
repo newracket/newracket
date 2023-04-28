@@ -69,4 +69,4 @@ Check out my portfolio at [https://aniketg.me](https://aniketg.me)!
 - [Avomod (Minecraft Mod) [Java]](https://github.com/newracket/avomod) - Minecraft mod that adds a variety of commands and utilities. Used by over 2000 people. Created using Java and Forge.
 - [Notepad [C#]](https://github.com/newracket/notepad-csharp) - Notepad clone with autosaving. Made using C# and Windows Forms.
 - [Chatsystem [Golang]](https://github.com/newracket/Golang-Chat-System) - Chat system made with Golang.
-- [Mat4Fun [HTML/CSS/JavaScript]](https://github.com/newracket/math4fun) - Series of basic math games. Created for Congressional App Challenge. Made using HTML, CSS, and JavaScript.
+- [Math4Fun [HTML/CSS/JavaScript]](https://github.com/newracket/math4fun) - Series of basic math games. Created for Congressional App Challenge. Made using HTML, CSS, and JavaScript.
