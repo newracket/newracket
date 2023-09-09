@@ -49,7 +49,8 @@ Check out my portfolio at [https://aniketg.me](https://aniketg.me)!
 
 - [CountrySide Mapper](https://github.com/newracket/Countryside-Mapper) - Web application to encourage agritourism in rural areas. Made using React, Typescript, and Firebase. Created for the hackathon Garuda Hacks.
 - [Chess Website](https://github.com/newracket/Chess-Website) - Fully functional website for users to play chess on (singleplayer or two-player). Made using React and Typescript.
-- [Portfolio](https://github.com/newracket/Portfolio) - My portoflio! Made using React, Typescript, and Tailwind.
+- [Portfolio](https://github.com/newracket/Portfolio) - My portoflio! Made using HTML and CSS.
+- [Old Portfolio](https://github.com/newracket/Portfolio-Old) - My old portfolio, made with React, Typescript, and Tailwind. Rewrote in HTML & CSS to improve speed. 
 - [Discord Bot](https://github.com/newracket/Discord-Server-Utilities) - Discord bot with reminder system, poll system, several games, and a commands for tedious tasks. Wrote using NodeJS, Discord.js, and Sqlite3.
 - [Discord Bot Rewrite](https://github.com/newracket/Discord-Server-Utilities-Typescript) - Rerwrite of above discord bot in Typescript, along with a later version of discord.js.
 - [Crossbow Game Website UI](https://github.com/newracket/IEEE-W23-QP) - Website user interface created for carnival-style crossbow game. Linked to an arduino and pressure sensors (hense the C++ code). Made using React and Javascript.
