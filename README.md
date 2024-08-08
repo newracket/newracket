@@ -72,6 +72,7 @@ Check out my portfolio at [https://aniketg.me](https://aniketg.me)!
 
 ### Mixed/Other
 
+- Blockstore - Cloud syncing distributed system made using Golang. Allows syncing between multiple devices, handles conflicts, and utilizes a distributed network to ensure scalability.
 - [Notepad [C#]](https://github.com/newracket/notepad-csharp) - Notepad clone with autosaving. Made using C# and Windows Forms.
 - [Chatsystem [Golang]](https://github.com/newracket/Golang-Chat-System) - Chat system made with Golang.
 - [Math4Fun [HTML/CSS/JavaScript]](https://github.com/newracket/math4fun) - Series of basic math games. Created for Congressional App Challenge. Made using HTML, CSS, and JavaScript.
