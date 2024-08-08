@@ -65,9 +65,13 @@ Check out my portfolio at [https://aniketg.me](https://aniketg.me)!
 - [UCSD Courses Scraper](https://github.com/newracket/Classes_Scraper) - Scrapes all of the courses offered at UCSD for a specific quarter and stores them in a JSON file. Made using Python and Selenium.
 - [Advent of Code 2022](https://github.com/newracket/AdventOfCode2022) - Annual programming challenges during winter. Solved using Python.
 
+### Java
+
+- [Successorator (todo-list application)](https://github.com/newracket/Successorator) - Todo-list native android app, made using Java and Android API. Includes repeated tasks, and categorization of tasks.
+- [Avomod (Minecraft Mod) [Java]](https://github.com/newracket/avomod) - Minecraft mod that adds a variety of commands and utilities. Used by over 2000 people. Created using Java and Forge.
+
 ### Mixed/Other
 
-- [Avomod (Minecraft Mod) [Java]](https://github.com/newracket/avomod) - Minecraft mod that adds a variety of commands and utilities. Used by over 2000 people. Created using Java and Forge.
 - [Notepad [C#]](https://github.com/newracket/notepad-csharp) - Notepad clone with autosaving. Made using C# and Windows Forms.
 - [Chatsystem [Golang]](https://github.com/newracket/Golang-Chat-System) - Chat system made with Golang.
 - [Math4Fun [HTML/CSS/JavaScript]](https://github.com/newracket/math4fun) - Series of basic math games. Created for Congressional App Challenge. Made using HTML, CSS, and JavaScript.
